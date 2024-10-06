@@ -1,0 +1,32 @@
+﻿<Window x:Class="UserManagement.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UserManagement"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Background="Transparent"
+        Title="MainWindow" Height="480" Width="350" ResizeMode="NoResize">
+    <Grid>
+        <Rectangle RadiusX="9" RadiusY="9" Stroke="Black" Fill="GhostWhite"/>
+        <StackPanel>
+            <TextBlock Text="Users List" Margin="0,15,0,0" FontWeight="Bold" FontSize="24"
+                       VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            <ListView x:Name="UserList" Height="310" Width="260" MouseDoubleClick="UserList_MouseDoubleClick">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <local:Members/>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+                <ListView.ContextMenu>
+                    <ContextMenu>
+                        <MenuItem Header="Delete" Click="DeleteUserMenuItem_Click"/>
+                    </ContextMenu>
+                </ListView.ContextMenu>
+            </ListView>
+            <Button Content="Add User" Width="250" Height="35" Margin="0,10,0,0"
+                    Background="DeepSkyBlue" HorizontalAlignment="Center" Click="AddUserButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

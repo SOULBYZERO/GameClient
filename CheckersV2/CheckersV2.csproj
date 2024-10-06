@@ -1,0 +1,44 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>Assets\icon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\Black.png" />
+    <None Remove="Assets\BlackKing.png" />
+    <None Remove="Assets\board.png" />
+    <None Remove="Assets\icon.ico" />
+    <None Remove="Assets\Red.png" />
+    <None Remove="Assets\RedKing.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Assets\icon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\Black.png" />
+    <Resource Include="Assets\BlackKing.png" />
+    <Resource Include="Assets\board.png" />
+    <Resource Include="Assets\icon.ico" />
+    <Resource Include="Assets\Red.png" />
+    <Resource Include="Assets\RedKing.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Assets\Checkers.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

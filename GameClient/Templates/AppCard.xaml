@@ -1,0 +1,41 @@
+﻿<UserControl x:Class="GameClient.Templates.AppCard"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:GameClient.Templates"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="200">
+
+    <Border Background="{StaticResource SecondaryBgBrush}"
+            CornerRadius="5"
+            Height="300" Width="200" Margin="20">
+        <Button Background="Transparent" BorderThickness="0"
+            BorderBrush="Transparent" Width="195" Height="295"
+               x:Name="AppButton">
+            <Grid Width="195">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="250"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+
+                <!--App Image-->
+                <Border CornerRadius="5">
+                    <Border.Background>
+                        <ImageBrush ImageSource="{Binding Image}"
+                                Stretch="Fill"/>
+                    </Border.Background>
+                </Border>
+
+                <!--App Details-->
+                <TextBlock Foreground="{StaticResource SecondaryBrush}"
+                       Text="{Binding Name}"
+                       TextTrimming="CharacterEllipsis"
+                       FontWeight="SemiBold"
+                       Grid.Row="1" Margin="10" FontSize="18" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"/>
+            </Grid>
+        </Button>
+    </Border>
+</UserControl>

@@ -1,0 +1,202 @@
+﻿[
+  {
+    "QuestionText": "What is the capital of France?",
+    "CorrectAnswer": "Paris",
+    "Answers": ["London", "Berlin", "Paris", "Madrid"]
+  },
+  {
+    "QuestionText": "Who wrote 'Hamlet'?",
+    "CorrectAnswer": "William Shakespeare",
+    "Answers": ["Charles Dickens", "Mark Twain", "William Shakespeare", "Jane Austen"]
+  },
+  {
+    "QuestionText": "What is the capital city of Canada?",
+    "CorrectAnswer": "Ottawa",
+    "Answers": ["Toronto", "Vancouver", "Montreal", "Ottawa"]
+  },
+  {
+    "QuestionText": "Who wrote the novel '1984'?",
+    "CorrectAnswer": "George Orwell",
+    "Answers": ["Aldous Huxley", "George Orwell", "Ray Bradbury", "J.K. Rowling"]
+  },
+  {
+    "QuestionText": "What is the largest planet in our solar system?",
+    "CorrectAnswer": "Jupiter",
+    "Answers": ["Mars", "Saturn", "Jupiter", "Neptune"]
+  },
+  {
+    "QuestionText": "Who painted 'The Persistence of Memory'?",
+    "CorrectAnswer": "Salvador Dalí",
+    "Answers": ["Vincent van Gogh", "Pablo Picasso", "Salvador Dalí", "Claude Monet"]
+  },
+  {
+    "QuestionText": "In which city would you find the Colosseum?",
+    "CorrectAnswer": "Rome",
+    "Answers": ["Athens", "Rome", "Paris", "Cairo"]
+  },
+  {
+    "QuestionText": "What is the chemical symbol for iron?",
+    "CorrectAnswer": "Fe",
+    "Answers": ["Ir", "Fe", "In", "Fr"]
+  },
+  {
+    "QuestionText": "Who directed the movie 'Jurassic Park'?",
+    "CorrectAnswer": "Steven Spielberg",
+    "Answers": ["Martin Scorsese", "James Cameron", "Steven Spielberg", "Quentin Tarantino"]
+  },
+  {
+    "QuestionText": "Which country is known as the 'Land of the Rising Sun'?",
+    "CorrectAnswer": "Japan",
+    "Answers": ["China", "South Korea", "Japan", "Vietnam"]
+  },
+  {
+    "QuestionText": "Who was the first person to step on the moon?",
+    "CorrectAnswer": "Neil Armstrong",
+    "Answers": ["Buzz Aldrin", "Neil Armstrong", "Yuri Gagarin", "Alan Shepard"]
+  },
+  {
+    "QuestionText": "Which continent is the largest by land area?",
+    "CorrectAnswer": "Asia",
+    "Answers": ["Africa", "Asia", "North America", "Europe"]
+  },
+  {
+    "QuestionText": "What is the deepest point in the ocean?",
+    "CorrectAnswer": "Mariana Trench",
+    "Answers": ["Puerto Rico Trench", "Mariana Trench", "Java Trench", "Tonga Trench"]
+  },
+  {
+    "QuestionText": "Who is the author of the Harry Potter book series?",
+    "CorrectAnswer": "J.K. Rowling",
+    "Answers": ["J.R.R. Tolkien", "George R.R. Martin", "J.K. Rowling", "Stephen King"]
+  },
+  {
+    "QuestionText": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+    "CorrectAnswer": "Venus",
+    "Answers": ["Mars", "Jupiter", "Venus", "Mercury"]
+  },
+  {
+    "QuestionText": "Who painted the ceiling of the Sistine Chapel?",
+    "CorrectAnswer": "Michelangelo",
+    "Answers": ["Leonardo da Vinci", "Raphael", "Michelangelo", "Donatello"]
+  },
+  {
+    "QuestionText": "What is the currency of Brazil?",
+    "CorrectAnswer": "Brazilian Real",
+    "Answers": ["Peso", "Real", "Brazilian Dollar", "Brazilian Real"]
+  },
+  {
+    "QuestionText": "Which country is known as the 'Land of Fire and Ice'?",
+    "CorrectAnswer": "Iceland",
+    "Answers": ["Norway", "Iceland", "Greenland", "New Zealand"]
+  },
+  {
+    "QuestionText": "Who wrote the play 'Hamlet'?",
+    "CorrectAnswer": "William Shakespeare",
+    "Answers": ["Christopher Marlowe", "Ben Jonson", "William Shakespeare", "John Milton"]
+  },
+  {
+    "QuestionText": "What is the longest river in the world?",
+    "CorrectAnswer": "Nile River",
+    "Answers": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"]
+  },
+  {
+    "QuestionText": "Which famous physicist developed the theory of relativity?",
+    "CorrectAnswer": "Albert Einstein",
+    "Answers": ["Isaac Newton", "Stephen Hawking", "Marie Curie", "Albert Einstein"]
+  },
+  {
+    "QuestionText": "What is the national flower of Japan?",
+    "CorrectAnswer": "Cherry Blossom",
+    "Answers": ["Rose", "Cherry Blossom", "Lotus", "Tulip"]
+  },
+  {
+    "QuestionText": "Who invented the light bulb?",
+    "CorrectAnswer": "Thomas Edison",
+    "Answers": ["Nikola Tesla", "Alexander Graham Bell", "Thomas Edison", "Benjamin Franklin"]
+  },
+  {
+    "QuestionText": "Which artist cut off part of his own ear?",
+    "CorrectAnswer": "Vincent van Gogh",
+    "Answers": ["Pablo Picasso", "Vincent van Gogh", "Claude Monet", "Leonardo da Vinci"]
+  },
+  {
+    "QuestionText": "In which city would you find the Eiffel Tower?",
+    "CorrectAnswer": "Paris",
+    "Answers": ["Berlin", "London", "Rome", "Paris"]
+  },
+  {
+    "QuestionText": "What is the chemical symbol for silver?",
+    "CorrectAnswer": "Ag",
+    "Answers": ["Si", "Ag", "Sv", "Sl"]
+  },
+  {
+    "QuestionText": "Which animal can be seen on the Porsche logo?",
+    "CorrectAnswer": "Horse",
+    "Answers": ["Bull", "Horse", "Eagle", "Lion"]
+  },
+  {
+    "QuestionText": "Who wrote 'To Kill a Mockingbird'?",
+    "CorrectAnswer": "Harper Lee",
+    "Answers": ["John Steinbeck", "Harper Lee", "F. Scott Fitzgerald", "Maya Angelou"]
+  },
+  {
+    "QuestionText": "Which country has the largest population in the world?",
+    "CorrectAnswer": "China",
+    "Answers": ["India", "United States", "China", "Russia"]
+  },
+  {
+    "QuestionText": "Who is known as the 'Father of the Computer'?",
+    "CorrectAnswer": "Charles Babbage",
+    "Answers": ["Alan Turing", "Steve Jobs", "Charles Babbage", "Bill Gates"]
+  },
+  {
+    "QuestionText": "What is the largest desert in the world?",
+    "CorrectAnswer": "Sahara Desert",
+    "Answers": ["Arabian Desert", "Sahara Desert", "Gobi Desert", "Antarctic Desert"]
+  },
+  {
+    "QuestionText": "Who painted 'Girl with a Pearl Earring'?",
+    "CorrectAnswer": "Johannes Vermeer",
+    "Answers": ["Rembrandt", "Johannes Vermeer", "Hieronymus Bosch", "Pieter Bruegel"]
+  },
+  {
+    "QuestionText": "What is the smallest country in the world?",
+    "CorrectAnswer": "Vatican City",
+    "Answers": ["Monaco", "Vatican City", "San Marino", "Nauru"]
+  },
+  {
+    "QuestionText": "Who discovered penicillin?",
+    "CorrectAnswer": "Alexander Fleming",
+    "Answers": ["Marie Curie", "Louis Pasteur", "Alexander Fleming", "Robert Koch"]
+  },
+  {
+    "QuestionText": "What is the largest moon in the solar system?",
+    "CorrectAnswer": "Ganymede",
+    "Answers": ["Titan", "Ganymede", "Callisto", "Europa"]
+  },
+  {
+    "QuestionText": "Who wrote 'The Adventures of Tom Sawyer'?",
+    "CorrectAnswer": "Mark Twain",
+    "Answers": ["Herman Melville", "Mark Twain", "Nathaniel Hawthorne", "Edgar Allan Poe"]
+  },
+  {
+    "QuestionText": "Which element has the chemical symbol 'H'?",
+    "CorrectAnswer": "Hydrogen",
+    "Answers": ["Helium", "Hydrogen", "Hafnium", "Holmium"]
+  },
+  {
+    "QuestionText": "Who directed the movie 'The Shawshank Redemption'?",
+    "CorrectAnswer": "Frank Darabont",
+    "Answers": ["Quentin Tarantino", "Steven Spielberg", "Frank Darabont", "Christopher Nolan"]
+  },
+  {
+    "QuestionText": "Which country is famous for its tulips?",
+    "CorrectAnswer": "Netherlands",
+    "Answers": ["Belgium", "Denmark", "Netherlands", "Switzerland"]
+  },
+  {
+    "QuestionText": "What is the largest species of big cat?",
+    "CorrectAnswer": "Siberian tiger",
+    "Answers": ["Lion", "Siberian tiger", "Jaguar", "Leopard"]
+  }
+]

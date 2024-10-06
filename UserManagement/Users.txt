@@ -1,0 +1,22 @@
+[
+    {"Username":"JohnDoe","Description":"Administrator","URL":"pack://application:,,,/UserManagement;component/Assets/profile.png"},
+    {"Username":"AliceJones","Description":"Manager","URL":"pack://application:,,,/UserManagement;component/Assets/profile.png"},
+    {"Username":"BobBrown","Description":"Developer","URL":"pack://application:,,,/UserManagement;component/Assets/profile.png"},
+    {"Username":"EmmaDavis","Description":"Guest","URL":"pack://application:,,,/UserManagement;component/Assets/profile.png"},
+    {"Username":"MichaelWilson","Description":"Administrator","URL":"pack://application:,,,/UserManagement;component/Assets/profile.png"},
+    {"Username":"SarahLee","Description":"User","URL":"pack://application:,,,/UserManagement;component/Assets/profile.png"},
+    {"Username":"JamesTaylor","Description":"Manager","URL":"pack://application:,,,/UserManagement;component/Assets/profile.png"},
+    {"Username":"OliviaMoore","Description":"Developer","URL":"pack://application:,,,/UserManagement;component/Assets/profile.png"},
+    {"Username":"WilliamClark","Description":"Guest","URL":"pack://application:,,,/UserManagement;component/Assets/profile.png"},
+    {"Username":"EmilyAdams","Description":"Administrator","URL":"pack://application:,,,/UserManagement;component/Assets/profile.png"},
+    {"Username":"DanielWhite","Description":"User","URL":"pack://application:,,,/UserManagement;component/Assets/profile.png"},
+    {"Username":"GraceMartinez","Description":"Manager","URL":"pack://application:,,,/UserManagement;component/Assets/profile.png"},
+    {"Username":"JacobThompson","Description":"Developer","URL":"pack://application:,,,/UserManagement;component/Assets/profile.png"},
+    {"Username":"SophiaHarris","Description":"Guest","URL":"pack://application:,,,/UserManagement;component/Assets/profile.png"},
+    {"Username":"EthanGarcia","Description":"Administrator","URL":"pack://application:,,,/UserManagement;component/Assets/profile.png"},
+    {"Username":"IsabellaLewis","Description":"User","URL":"pack://application:,,,/UserManagement;component/Assets/profile.png"},
+    {"Username":"LoganMartin","Description":"Manager","URL":"pack://application:,,,/UserManagement;component/Assets/profile.png"},
+    {"Username":"MiaGonzalez","Description":"Developer","URL":"pack://application:,,,/UserManagement;component/Assets/profile.png"},
+    {"Username":"LucasAllen","Description":"Guest","URL":"pack://application:,,,/UserManagement;component/Assets/profile.png"},
+    {"Username":"Anton Fishbein","Description":"Cool Guy","URL":"pack://application:,,,/UserManagement;component/Assets/profile.png"}
+]

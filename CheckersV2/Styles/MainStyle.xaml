@@ -1,0 +1,5 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <SolidColorBrush x:Key="DefaultBGColor" Color="#FAF9F6"/>
+    <SolidColorBrush x:Key="ButtonColor" Color="#FFF5EE"/>
+</ResourceDictionary>

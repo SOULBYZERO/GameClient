@@ -1,0 +1,69 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Calculator\**" />
+    <Compile Remove="CheckersV2\**" />
+    <Compile Remove="CurrencyConverter\**" />
+    <Compile Remove="TicTacToe\**" />
+    <Compile Remove="TriviaGame\**" />
+    <Compile Remove="UserManagement\**" />
+    <EmbeddedResource Remove="Calculator\**" />
+    <EmbeddedResource Remove="CheckersV2\**" />
+    <EmbeddedResource Remove="CurrencyConverter\**" />
+    <EmbeddedResource Remove="TicTacToe\**" />
+    <EmbeddedResource Remove="TriviaGame\**" />
+    <EmbeddedResource Remove="UserManagement\**" />
+    <None Remove="Calculator\**" />
+    <None Remove="CheckersV2\**" />
+    <None Remove="CurrencyConverter\**" />
+    <None Remove="TicTacToe\**" />
+    <None Remove="TriviaGame\**" />
+    <None Remove="UserManagement\**" />
+    <Page Remove="Calculator\**" />
+    <Page Remove="CheckersV2\**" />
+    <Page Remove="CurrencyConverter\**" />
+    <Page Remove="TicTacToe\**" />
+    <Page Remove="TriviaGame\**" />
+    <Page Remove="UserManagement\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\csharp.png" />
+    <None Remove="Assets\dotnet.png" />
+    <None Remove="Assets\logo.png" />
+    <None Remove="Assets\ProfilePicture.png" />
+    <None Remove="Assets\UserManagement.jpg" />
+    <None Remove="Assets\wpf.png" />
+    <None Remove="Assets\xaml.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Calculator\Calculator.csproj" />
+    <ProjectReference Include="..\CheckersV2\CheckersV2.csproj" />
+    <ProjectReference Include="..\Common\Common.csproj" />
+    <ProjectReference Include="..\CurrencyConverter\CurrencyConverter.csproj" />
+    <ProjectReference Include="..\MemoryGame\MemoryGame.csproj" />
+    <ProjectReference Include="..\TicTacToe\TicTacToe.csproj" />
+    <ProjectReference Include="..\TriviaGame\TriviaGame.csproj" />
+    <ProjectReference Include="..\UserManagement\UserManagement.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\csharp.png" />
+    <Resource Include="Assets\dotnet.png" />
+    <Resource Include="Assets\logo.png" />
+    <Resource Include="Assets\ProfilePicture.png" />
+    <Resource Include="Assets\UserManagement.jpg" />
+    <Resource Include="Assets\wpf.png" />
+    <Resource Include="Assets\xaml.png" />
+  </ItemGroup>
+
+</Project>
